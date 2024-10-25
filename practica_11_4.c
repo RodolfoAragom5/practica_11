@@ -21,5 +21,4 @@ void incremento()
 int enteraLocal = 5;
 enteraGlobal += 2;
 printf("global(%i) + local(%i) = %d\n",enteraGlobal, enteraLocal, enteraGlobal+enteraLocal);
-return 0;
 }
